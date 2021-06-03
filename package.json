@@ -1,6 +1,6 @@
 {
   "name": "random-practice",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Mensajes aleatorios como ejemplo.",
   "main": "src/index.js",
   "scripts": {
